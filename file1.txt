@@ -1,0 +1,9 @@
+s this is my demo file we will itilize this file to see the usedullness!wq
+!wq
+:wq!
+
+
+:wq
+!qw
+!wq
+
